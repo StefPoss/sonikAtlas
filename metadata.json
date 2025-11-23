@@ -1,0 +1,5 @@
+{
+  "name": "SonikAtlas",
+  "description": "A streamlined guide for VCV Rack users to build specific sound patches instantly using static recipes or AI generation.",
+  "requestFramePermissions": []
+}
